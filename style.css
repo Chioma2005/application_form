@@ -1,0 +1,17 @@
+h1{
+    background-color:#333;
+    color:white;
+    padding:3px
+  }
+  form{
+    font-family:Arial;
+    font-size:11pt
+  }
+  p{
+    background-color:#211b1b;
+    color:rgb(170, 76, 76);
+    font-family:Arial;
+    font-size:6pt;
+    text-align:center;
+    padding:7pt
+  }
